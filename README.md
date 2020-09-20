@@ -2,7 +2,6 @@
 
 - 🔭 Things I’m currently working on:
 - - Redundant Data Management within Education Environments
-- - Simplifying Photography Workflows via Automation
 - 🌱 Prefered Language:
 - - Python
 
