@@ -1,2 +1,2 @@
-# Fullstack Developer, Network Engineer and Definitely-Not-Three-Corvids-in-a-Trench-Coat.
-Head of Tech @ Where U?
+# CTO, Fullstack Developer, and Definitely-Not-Three-Corvids-in-a-Trench-Coat.
+CTO @ Where U?
